@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-webfontloader",
+  "version": "0.1.0",
+  "description": "vue-cli plugin to add webfontloader",
+  "main": "index.js",
+  "repository": "https://github.com/caseyjacobson/vue-cli-plugin-webfontloader",
+  "author": "Casey Jacobson <casey6@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "os": "^0.1.1",
+    "prettier": "^1.18.2",
+    "webfontloader": "^1.6.28"
+  }
+}
