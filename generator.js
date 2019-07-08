@@ -21,7 +21,7 @@ const getConfig = options => {
 
   if (options.google) {
     config.google = {
-      families: options.google.split(',').map(f => f.trim())
+      families: options.google.split(', ').map(f => f.trim())
     };
   }
 
